@@ -1,0 +1,13 @@
+*Pomelo-Mysql ile Mssql arasýndaki fark görüldü.Mssql de validation iþlemleri her entity üzerine annotation lar ile yapýlýrken 
+ mysql tarafnda entityler boþ gelir ve validation iþlemleri context clasý üzerinde konfigürasyon olarak yapýlýr
+
+*Area kullanýmý hem mvc projesinde hemde Api projesinde
+
+*Tek bir katmandan yönetilen authorization-authentication-jwt sistemi ve bu sistemden doðrulama almak için hem ui katmanýnda 
+ hem data-api katmanýnda header ile yapýlan sýralý ve doðrudan istekler
+
+*Automapper ve DTO kullanýmý
+
+*DTO larda attribute validation
+
+*Password hash sistemi ile kayýt olma ve login olma

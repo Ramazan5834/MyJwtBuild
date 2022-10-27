@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@model List<MyJwtBuild.DTO.ProductDtos.ProductListDto>
+
+<a class="btn btn-primary" asp-area="" asp-controller="Product" asp-action="CreateNewProduct">Yeni Ürün Ekle</a>
+
+@if(Model == null){
+    <h4>Model boş döndü sisteme giriş yaptığınızdan ve veritabanında herhangi bir ürün olduğundan emin olun</h4>
+}else{
+<table class="table">
+    <thead>
+        <tr>
+          
+            <th scope="col">Ürün Adı</th>
+            <th scope="col">Ürün Fiyatı</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+              
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+}

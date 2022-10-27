@@ -1,0 +1,12 @@
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\bin\Debug\net6.0\MyJwtBuild.DTO.deps.json
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\bin\Debug\net6.0\MyJwtBuild.DTO.dll
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\bin\Debug\net6.0\MyJwtBuild.DTO.pdb
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\MyJwtBuild.DTO.csproj.AssemblyReference.cache
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\MyJwtBuild.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\MyJwtBuild.DTO.AssemblyInfoInputs.cache
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\MyJwtBuild.DTO.AssemblyInfo.cs
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\MyJwtBuild.DTO.csproj.CoreCompileInputs.cache
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\MyJwtBuild.DTO.dll
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\refint\MyJwtBuild.DTO.dll
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\MyJwtBuild.DTO.pdb
+C:\Users\iscananr\source\repos\MyJwtBuild\MyJwtBuild.DTO\obj\Debug\net6.0\ref\MyJwtBuild.DTO.dll

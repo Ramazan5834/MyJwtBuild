@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uf1AYUjHlDC5wnnckKBUPtepwvTeq6Xea9bxaNBLf2M=",
+  "Source": "MyJwtBuild.Data.API",
+  "BasePath": "_content/MyJwtBuild.Data.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
